@@ -18655,6 +18655,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\PT phan mem quan ly\\BTH2002\\BTH2002\\Views\\Student\\Tong.cshtml",
+      "TargetPath": "Views\\Student\\Tong.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\PT phan mem quan ly\\BTH2002\\BTH2002\\Views\\Student\\index.cshtml",
       "TargetPath": "Views\\Student\\index.cshtml",
       "FileKind": "mvc"
